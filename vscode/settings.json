@@ -1,0 +1,56 @@
+{
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "eslint.format.enable": true,
+  "prettier.singleQuote": true,
+  "eslint.nodePath": "/usr/local/lib/node_modules/eslint/bin/eslint.js",
+  "python.formatting.provider": "black",
+  "jest.autoRun": {
+    "on-save": false
+  },
+  "editor.inlineSuggest.enabled": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "python.venvPath": "~/new-flask/venv",
+  "python.venvFolders": ["new-flask/venv"],
+  "[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": true,
+    "cpp": false,
+    "rust": true,
+    "java": true
+  },
+  "C_Cpp.formatting": "clangFormat",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "window.commandCenter": false,
+  "mypy.enabled": false
+}
