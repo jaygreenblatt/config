@@ -1,3 +1,6 @@
+# Navigation
+alias gt:code="cd ~/Documents/code"
+
 # Git Commands
 alias gs="git status"
 alias gac="git add -A && git commit -m"
